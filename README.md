@@ -1,5 +1,5 @@
 - oi eu sou @ErikGabriel
-- estou enteressado em progamação 
+- estou enteressado wicca,tebano,animação,RPG 
 - eu estou aprendendo HTML,CSS e Javascript
 - procurar colaborar com o professor
 - você pode me encontar no erik.lima.rodrigues@escola.pr.gov.br
