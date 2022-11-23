@@ -1,0 +1,54 @@
+body{
+    background: linear-gradient(to left, rgb(53, 184, 207), rgb(206, 116, 218));
+     text-align: center;
+    background: ;
+}
+nav{
+    position: absolute;
+    top: 100px;
+    right: 75px;
+}
+nav a{
+    text-decoration: none;
+    text-transform: uppercase;
+    padding-left: 12px;
+    font-size: 20px;
+    color: aqua;
+}
+nav a:hover{
+    font-size: 22px;
+    font-weight: bold;
+    color: blueviolet;
+    transition: 0.5s;
+}
+h3{
+    text-align: left;
+}
+.logo{
+    width: 20%;
+    border: radius 0%;
+
+}
+.capa{
+    width: 100%;
+}
+.beneficios{
+    background: (245, 193, 48);
+    text-align: left;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    font-size: 150%;
+margin-right: 150px;
+}
+li{
+    padding: 30px;
+}
+.foto.beneficios{
+    border-radius: 25px;
+    box-shadow:1em 0 0.4em rgb(23, 42, 42);
+    width: 30%;
+    
+}
+
